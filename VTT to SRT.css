@@ -19,3 +19,7 @@ div, h1, p, label {
   margin: auto;
   width: 63%;
 }
+
+.subtext {
+  font-size: x-small;
+}
