@@ -1,0 +1,21 @@
+.maincontainer {
+  width: 80%;
+  border: 15px solid #26235D;
+  padding: 50px;
+  margin: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.subcontainer {
+  margin: auto;
+  width: 63%;
+}
+
+div, h1, p, label {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+#savecontainer {
+  margin: auto;
+  width: 63%;
+}
